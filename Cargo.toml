@@ -1,0 +1,7 @@
+[package]
+name = "yell"
+version = "0.1.0"
+authors = ["yuriel <yuriel3183@gmail.com>"]
+
+[dependencies]
+rust-sqlite = "0.3.0"
